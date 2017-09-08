@@ -28,3 +28,8 @@ We follow the [feature-branch workflow with interactive rebasing](https://www.at
 ## 3. Coding Style
 - Where feasible, the coding conventions for that particular language should be followed.
 - Use white-space. It doen't add real overhead and makes your code much easier to read later. Code is only written once, but read often.
+
+## 4. Payment
+For payment, an invoice is required from you. There are free tools to quickly generate invoices. E.g. https://invoice-generator.com/#/3
+
+Add your own details and the company details you received. Then description of the project and work done and your bank details.
